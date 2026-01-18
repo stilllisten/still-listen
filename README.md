@@ -125,3 +125,14 @@ for the Still Listen protocol.
 For a detailed conceptual description, see:
 
 - [WHITEPAPER.md](WHITEPAPER.md)
+
+---
+
+## Author
+
+Concept and original idea by  
+**Dmitry Danilenko**
+
+Initial public disclosure published via the `stilllisten` GitHub account.
+
+A PDF version of the whitepaper is available as `Still_Listen_Whitepaper_Final.pdf`.
